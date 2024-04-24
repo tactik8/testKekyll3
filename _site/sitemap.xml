@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<url>
+<loc>http://0.0.0.0:4000/authors/jill.html</loc>
+<lastmod>2024-04-24T12:17:22+00:00</lastmod>
+</url>
+<url>
+<loc>http://0.0.0.0:4000/authors/ted.html</loc>
+<lastmod>2024-04-24T12:17:22+00:00</lastmod>
+</url>
+<url>
+<loc>http://0.0.0.0:4000/2022/01/01/post1.html</loc>
+<lastmod>2022-01-01T00:00:00+00:00</lastmod>
+</url>
+<url>
+<loc>http://0.0.0.0:4000/2022/01/02/post2.html</loc>
+<lastmod>2022-01-02T00:00:00+00:00</lastmod>
+</url>
+<url>
+<loc>http://0.0.0.0:4000/about.html</loc>
+</url>
+<url>
+<loc>http://0.0.0.0:4000/blog.html</loc>
+</url>
+<url>
+<loc>http://0.0.0.0:4000/</loc>
+</url>
+<url>
+<loc>http://0.0.0.0:4000/privacy.html</loc>
+</url>
+<url>
+<loc>http://0.0.0.0:4000/staff.html</loc>
+</url>
+<url>
+<loc>http://0.0.0.0:4000/terms_and_conditions.html</loc>
+</url>
+</urlset>

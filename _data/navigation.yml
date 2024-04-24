@@ -1,0 +1,12 @@
+- name: Home
+  link: 
+- name: Blog
+  link: /blog.html
+- name: Staff
+  link: /staff.html
+- name: Page1
+  link: /page1.html
+- name: Page1
+  link: /page2.html
+- name: About
+  link: /about.html
